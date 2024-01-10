@@ -1,1 +1,1 @@
-![image](themirrazz-lexend-gh.png)
+![image](gh-lexend-banner.png)
